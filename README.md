@@ -25,13 +25,9 @@ Skills: HTML / CSS / Bootstrap / JavaScript/ React JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jabidhasanhridoy&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jabidhasanhridoy)  
-
-![GitHub metrics](https://metrics.lecoq.io/jabidhasanhridoy)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=jabidhasanhridoy)  
 
-![Profile views](https://gpvc.arturio.dev/jabidhasanhridoy)  
+
 
 
 <h1 align="center">Hi 👋, I'm Jabid Hasan Hridoy</h1>
