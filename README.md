@@ -2,7 +2,8 @@
 #### I am MERN stack web developer.
 ![I am MERN stack web developer.](https://github.com/jabidhasanhridoy/jaabidhasanhridoy/blob/main/github.png)
 
-Hey! I'm a MERN stack developer. I love to learn new technologies & client satisfaction is my first priority.
+<h1 align="center">Hi 👋, I'm Jabid Hasan Hridoy</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 Skills: HTML / CSS / Bootstrap / JavaScript/ React JS
 
@@ -30,8 +31,7 @@ Skills: HTML / CSS / Bootstrap / JavaScript/ React JS
 
 
 
-<h1 align="center">Hi 👋, I'm Jabid Hasan Hridoy</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jabidhasanhridoy&label=Profile%20views&color=0e75b6&style=flat" alt="jabidhasanhridoy" /> </p>
