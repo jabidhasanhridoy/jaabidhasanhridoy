@@ -1,9 +1,8 @@
-### Hi there 👋, my name is Jabid Hasan Hridoy
-#### I am MERN stack web developer.
-![I am MERN stack web developer.](https://github.com/jabidhasanhridoy/jaabidhasanhridoy/blob/main/github.png)
-
 <h1 align="center">Hi 👋, I'm Jabid Hasan Hridoy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+![I am MERN stack web developer.](https://github.com/jabidhasanhridoy/jaabidhasanhridoy/blob/main/github.png)
+
+
 
 Skills: HTML / CSS / Bootstrap / JavaScript/ React JS
 
